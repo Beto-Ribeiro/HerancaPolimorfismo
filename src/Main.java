@@ -1,4 +1,4 @@
-import Funcionario.Aluno;
+import Academico.Aluno;
 import beans.Pessoa;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

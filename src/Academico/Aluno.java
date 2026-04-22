@@ -1,4 +1,5 @@
-package Funcionario;
+package Academico;
+
 import beans.Pessoa;
 
 import java.util.Objects;
@@ -88,6 +89,5 @@ public class Aluno extends Pessoa {
     public int hashCode() {
         return Objects.hash(super.hashCode(), RA);
     }
-
 
 }
